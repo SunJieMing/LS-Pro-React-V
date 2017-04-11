@@ -16,8 +16,8 @@
   * `App.js` should return the `<Router />` component as the base.
   * Add a header to the top of your page with two `<Link />` components.
   * Create two components that will be two different "pages" that you will render.
-  * The first comopnent should be called `<Home />` and should display basic info about the store you are creating.
-  * The second comopnent should be called `<Products />` and should display a list of products.
+  * The first component should be called `<Home />` and should display basic info about the store you are creating.
+  * The second component should be called `<Products />` and should display a list of products.
   * When you click on a product you should be taken to an individual product page. Example: `/products/:productId`
   * You will setup the unique path using route parameters.
 
